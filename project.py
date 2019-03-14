@@ -5,7 +5,6 @@ from textblob import TextBlob
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 
 class TwitterClient(object):
-	ya
 	'''
 	Generic Twitter Class for sentiment analysis.
 	'''
